@@ -1,0 +1,9 @@
+SCRIPT/*
+zh_cn_text/*
+aoishiro_tools/*
+*.log
+*.dll
+.vscode/settings.json
+*.as
+*.test
+test.*
